@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee0d1d6d7536c4a459226649f3854969
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unitMat: {fileID: 2100000, guid: 9596769d30911eb46ab9eba07dc62672, type: 2}
+  - targetMat: {fileID: 2100000, guid: d6accafc25789bc4aaf61ed7b6028854, type: 2}
+  - quadMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

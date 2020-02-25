@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kacper\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kacper\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Dynamic Buffers.788284450.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kacper\Documents\GitKraken\DOTS-Platfromer\Dynamic Buffers" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="IntBufferElement.cs" t="Include" />
+          <e p="IntBufferElementAuthoring.cs" t="Include" />
+          <e p="Tag_A.cs" t="Include" />
+          <e p="Tag_B.cs" t="Include" />
+          <e p="TestBufferFromEntity.cs" t="Include" />
+          <e p="TestBufferJobSystem.cs" t="Include" />
+          <e p="TestBufferSystem.cs" t="Include" />
+          <e p="Testing.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Dynamic Buffers.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

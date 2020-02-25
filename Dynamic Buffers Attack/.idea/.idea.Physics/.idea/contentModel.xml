@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kacper\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kacper\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Physics.-346251252.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kacper\Documents\GitKraken\DOTS-Platfromer\Physics" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BallJumpSystem.cs" t="Include" />
+          <e p="TestRayCast.cs" t="Include" />
+          <e p="TestTriggers.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Physics.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
